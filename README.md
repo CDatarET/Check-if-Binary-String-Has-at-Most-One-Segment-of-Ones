@@ -1,0 +1,19 @@
+# Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones
+Leetcode Problem #1784
+
+Given a binary string s ​​​​​without leading zeros, return true​​​ if s contains at most one contiguous segment of ones. Otherwise, return false.
+
+Example 1:
+```
+Input: s = "1001"
+Output: false
+Explanation: The string has two segments of size 1.
+```
+
+Example 2:
+```
+Input: s = "110"
+Output: true
+```
+
+---
